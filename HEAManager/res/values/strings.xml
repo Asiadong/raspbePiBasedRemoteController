@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">HEAManager</string>
+	<string name="button0">连接家庭服务器</string>
+	<string name="button1">前</string>
+	<string name="button2">后</string>
+	<string name="button3">左</string>
+	<string name="button4">右</string>
+	<string name="button5">STOP</string>
+	<string name="button6">空调</string>
+	<string name="button7">照明</string>
+	<string name="button8">窗户</string>
+	<string name="button9">热水器</string>
+	<string name="button10">测试小车</string>
+	<string name="text0">input the hostip</string>
+	<string name="text1">断开链接</string>
+	<string name="text2">发送数据为:</string>
+	<string name="text3">NULL</string>
+	<string name="text4">input the port</string>
+	<string name="text5">103.44.145.243</string>
+</resources>
